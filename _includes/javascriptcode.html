@@ -49,3 +49,18 @@ $(document).ready(function() {
   $("#user").html("<a class='editlink' title='With permission through GitHub' href='/admin/#/collections/posts/entries{{ page.path | remove: ".md" | remove: "_posts" }}'>" + "edit this page" + "</a>");
 }
 </script>
+
+
+<!-- reveal the heading on scroll -->
+<script>
+  if ($(window).width() > 500) {
+    $(document).scroll(function() {
+    var y = $(this).scrollTop();
+    if (y > 300) {
+      $('.site-title').fadeIn();
+    } else {
+      $('.site-title').fadeOut();
+    }
+  });
+}
+</script>

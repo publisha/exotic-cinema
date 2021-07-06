@@ -1,14 +1,14 @@
 backend:
-  name: github
-  repo: githubusername/yourrepositoryname # Path to your GitHub repository
+  name: git
+  repo: publisha/exotic-cinema # Path to your GitHub repository
   branch: master # Branch to update (master by default)
-  site_domain: yoursite.netlify.app #Your site on netlify
+  site_domain: exotic-cinema.netlify.app #Your site on netlify
   use_graphql: true
 
 publish_mode: editorial_workflow
 show_preview_links: true
-display_url: https://yoursite.netlify.app
-logo_url: https://yoursite.netlify.app/uploads/logo.jpg
+display_url: https://exotic-cinema.netlify.app
+logo_url: https://exotic-cinema.netlify.app/uploads/logo.jpg
 
 # Do NOT edit below this line unless you want to change the home page
 
@@ -143,11 +143,11 @@ collections:
             name: "title"
             widget: "string"
             required: true
-            hint: "A short title of the site to be displayed top left"
+            hint: "A short title of the site to be displayed top left on pages other than the hoe page"
           - label: "Description"
             name: "description"
             widget: "string"
-            hint: "This is used in the metadata of the site. Good for search engines."
+            hint: "This will appear after the main text."
             required: false
           - label: "Text in the Footer"
             name: "footer_text"

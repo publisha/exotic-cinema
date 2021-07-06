@@ -11,10 +11,13 @@ layout: default
   {%- if site.data.settings.header_text -%}
     <h1 style="color:{{ site.data.settings.header_text_color }};"> {{ site.data.settings.header_text }} </h1>
   {%- endif -%}
+  {%- if site.data.settings.description -%}
+    <h2 style="color:{{ site.data.settings.header_text_color }};"> {{ site.data.settings.description }} </h2>
+  {%- endif -%}
 </header>
 </article>
 {%- endif -%}
 
-{%- include blog.html -%}
+{%- include homepageitems.html -%}
 
 </main>

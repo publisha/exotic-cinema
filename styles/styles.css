@@ -18,10 +18,6 @@ figure {
     margin: 0;
 }
 
-body {
-    margin: 0;
-}
-
 article, aside, details, figcaption, figure, footer, header, hgroup,
 main, menu, nav, section, summary {
     display: block;
@@ -33,6 +29,7 @@ body {
     font-family: "Source Sans Pro", "Trebuchet MS", Helvetica, Arial, sans-serif;
     font-size: 1.25em;
     word-wrap: break-word;
+    padding-top:35px;
 }
 
 
@@ -49,11 +46,6 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 
 h1 a {
     font-size: 1em;
-}
-
-.home #main h1 {
-    font-size: 3em;
-    line-height: 1;
 }
 
 h2 {
@@ -210,7 +202,7 @@ img[align=right] {
     padding: 3% 6%
 }
 
-@media (max-width: 1000px) {
+@media screen and (max-width: 1000px) {
     #post-nav {
         padding: 3% 3%
     }
@@ -222,14 +214,14 @@ article, .comments, .feature-image .post-content, .feature-image footer,
 }
 
 
-@media (max-width: 1000px) {
+@media screen and (max-width: 1000px) {
     article, .comments, .feature-image .post-content, .feature-image footer,
     .posts .post-teaser, .site-footer {
         padding: 6% 12.5%
     }
 }
 
-@media (max-width: 576px) {
+@media screen and (max-width: 576px) {
     article, .comments, .feature-image .post-content, .feature-image footer,
     .posts .post-teaser, .site-footer {
         padding: 4%
@@ -240,13 +232,13 @@ article, .comments, .feature-image .post-content, .feature-image footer,
     padding: 6% 20%
 }
 
-@media (max-width: 1000px) {
+@media screen and (max-width: 1000px) {
     .call-out {
         padding: 9% 12.5%
     }
 }
 
-@media (max-width: 576px) {
+@media screen and (max-width: 576px) {
     .call-out {
         padding: 6%
     }
@@ -373,7 +365,7 @@ header {
 .feature-image header {
     color: #fff;
     margin-bottom: 0;
-    padding: 8% 20%
+    padding: 3%;
 }
 
 .feature-image header .meta, .feature-image header #post-nav p, #post-nav .feature-image header p {
@@ -396,7 +388,7 @@ header {
 
 @media screen and (min-width: 768px) {
     .feature-image header {
-        background-size: 120% auto
+        background-size: 120% auto;
     }
 
     .editlink {
@@ -405,15 +397,17 @@ header {
 }
 
 @media screen and (max-width: 768px) {
-    .feature-image header {
-        background-size: 200% auto
-    }
+
+    .home #main {
+        max-height:35vh;
+      }
 }
 
 @media screen and (max-width: 450px) {
-    .feature-image header {
-        background-size: 400% auto
-    }
+
+    .home #main {
+        max-height:25vh;
+      }
 }
 
 .call-out {
@@ -435,7 +429,7 @@ header {
 
 @media screen and (max-width: 768px) {
     .call-out {
-        background-size: 200% auto
+        background-size: 200% auto;
     }
 }
 
@@ -449,18 +443,7 @@ header {
     margin-bottom: 0
 }
 
-#main {
-  display: inline-block;
-  width: 100%;
-  height: 100%;
-  /* font-size: 1.2em; */
-  text-align: center;
-  color: #FFF;
-  background: #337ab7 no-repeat;
-  background-size: cover;
-  background-position: center;
-  /* background-origin: content-box; */
-}
+
 
 .posts .post-teaser {
     width: 100%;
@@ -485,7 +468,7 @@ max-height: 100%;
 
 @media (min-width: 768px) {
     .posts .post-teaser .post-img {
-        height: 250px
+        height: 250px;
     }
 }
 
@@ -694,10 +677,11 @@ h3.tag-anchor i {
 
 .site-header {
 background: #fff;
+opacity: .8;
 width: 100%;
 top:0;
 padding-right: 20px;
-height: 55px;
+height: 35px;
 z-index: 100;
 display: flex;
 justify-content: space-between;
@@ -735,10 +719,6 @@ align-items: center;
     padding:0;
 }
 
-.site-header .site-title {
-    font-weight: bold;
-    font-size: 1.3em
-}
 
 .site-header nav {
   font-family: "Source Sans Pro", "Trebuchet MS", Helvetica, Arial, sans-serif;
@@ -785,7 +765,7 @@ align-items: center;
     display: table
 }
 
-@media (min-width: 768px) {
+@media screen and (min-width: 768px) {
     a#pull {
         display: none
     }
@@ -813,7 +793,7 @@ align-items: center;
       opacity: .9;
       position: fixed;
       right:0;
-      top: 55px;
+      top: 35px;
       border-right:20px solid white;
     }
 
@@ -980,12 +960,12 @@ ul.share-buttons .sr-only {
     display: inline-block;
     text-align: center;
     width: 100%;
-    clear: both
+    clear: both;
 }
 
-@media (max-width: 600px) {
+@media screen and (max-width: 600px) {
     .pagination {
-        padding: 4%
+        padding: 4%;
     }
 }
 
@@ -993,7 +973,7 @@ ul.share-buttons .sr-only {
     content: '';
     display: inline-block;
     height: 100%;
-    vertical-align: middle
+    vertical-align: middle;
 }
 
 .pagination .page_number {
@@ -1001,7 +981,7 @@ ul.share-buttons .sr-only {
     vertical-align: sub
 }
 
-@media (max-width: 254px) {
+@media screen and (max-width: 254px) {
     .pagination .page_number {
         display: none
     }
@@ -1020,7 +1000,7 @@ ul.share-buttons .sr-only {
     vertical-align: inherit
 }
 
-@media (max-width: 768px) {
+@media screen and (max-width: 768px) {
     .pagination .button {
         display: table-cell
     }
@@ -1375,9 +1355,21 @@ a.word {
 
 #main {
 
-  display:flex;
-  justify-content: center;
-  flex-wrap: nowrap;
-  flex-direction: column;
-  align-items: center;
-}
+    /* display:flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    align-items: center;
+    display: inline-block; */
+    width: 100%;
+    height: 100%;
+    /* font-size: 1.2em; */
+    text-align: left;
+    color: #FFF;
+    background: #337ab7 no-repeat;
+    background-size: cover;
+    background-position: top left;
+    /* background-origin: content-box; */
+    
+  }
+
