@@ -12,13 +12,6 @@
       .home #main {
         height:{{ site.data.settings.bannerheight }};
       }
-
-      @media screen and (max-width: 450px) {
-
-        .home #main {
-          height:20vmin;
-        }
-      }
     </style>
 
     <link rel="shortcut icon" href="{{ site.data.settings.favicon | relative_url }}" type="image/x-icon">
@@ -60,4 +53,11 @@
       }
     </style>
     {% endif %}
+    {%- if page.location.home -%}
+    <style>
+      h1.site-title {
+        display:none;
+      }
+    </style>
+    {%- endif -%}
 </head>

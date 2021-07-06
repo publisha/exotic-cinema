@@ -1,11 +1,13 @@
 <header class="site-header">
 
-    <!-- Logo and title -->
+ <!-- Logo and title -->
+
 	<div class="branding">
+    {%- unless site.data.settings.logo == null -%}
 		<a href="{{ '/' | relative_url }}">
 			<img alt="logo img" class="avatar" src="{{ site.data.settings.logo | relative_url }}" />
 		</a>
-
+    {%- endunless -%}
 		<h1 class="site-title">
 			<a aria-label="{{ site.data.settings.title }}" href="{{ '/' | relative_url }}">
         {{ site.data.settings.title }}

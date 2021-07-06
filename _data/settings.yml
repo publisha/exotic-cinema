@@ -1,12 +1,12 @@
-title: Your name or name of site
-description: A website with a blog
-header_text: My Dream Blog
+title: Exotic Cinema
+description: Encounters with Cultural Difference in Contemporary Transnational Cinema
+header_text: Exotic Cinema
 header_text_color: "#ffffff"
-footer_text: Copyright 2021 Your name
-header_feature_image: ../uploads/pages.jpg
-bannerheight: "20vmax"
-gridlayout: false
-logo: /uploads/logo.jpg
+footer_text: Copyright 2021 Daniela Berghahn
+header_feature_image: ../uploads/TANNAMainStillDainandWawaonrock.jpg
+bannerheight: "35vmax"
+gridlayout: true
+logo:
 favicon: /uploads/favicon.ico
 upzoom: true
-fixednavbar: false
+fixednavbar: true
