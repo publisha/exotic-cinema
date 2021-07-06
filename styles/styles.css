@@ -288,7 +288,7 @@ article, .comments, .feature-image .post-content, .feature-image footer,
 }
 
 article, .comments {
-    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    /* border-bottom: 1px solid rgba(0, 0, 0, 0.1); */
     float: left;
     width: 100%
 }
@@ -327,6 +327,10 @@ header h1 {
 header {
   border-bottom: 1px solid silver;
 }
+
+.home header {
+    border-bottom: none;
+  }
 
 .meta, #post-nav p {
     color: #595959;
@@ -1373,3 +1377,62 @@ a.word {
     
   }
 
+
+  .homepage {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    /* margin: 0 auto; */
+  }
+  
+  .introduction {
+    flex-basis: 70vh;
+    flex-grow: 2;
+  }
+
+  .credits {
+    display: flex;
+    flex-direction: column;
+    /* background-color: #fff8da; */
+    border-left: 1px solid rgb(216, 216, 216);
+    flex-grow: 2;
+    flex-basis: 30%;
+  }
+  
+  .introduction .heading,
+  .credits .heading {
+    font-size: 1.4rem !important;
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    padding: 0.6rem;
+  }
+  @media screen and (max-width: 1024px) {
+    .introduction .heading,
+    .credits .heading {
+      font-size: 1rem !important;
+      padding: 0.7rem;
+    }
+  }
+  
+  .introduction .heading {
+    background-color: #8da245;
+    color: white !important;
+  }
+  
+  .credits .heading {
+    background-color: #809933;
+    color: white !important;
+  }
+  
+
+  .introduction .excerpt {
+      padding: 0 2rem;
+  }
+
+.credits .excerpt {
+    padding: 0 1rem;
+    font-size: .8em;
+}
+ 

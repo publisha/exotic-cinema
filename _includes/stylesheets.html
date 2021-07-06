@@ -76,6 +76,17 @@ body {
 </style>
 {%- endif -%}
 
+{%- if site.data.typography.body == "Aleo" -%}
+<link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="https://fonts.googleapis.com/css2?family=Aleo:wght@300;400&display=swap" rel="stylesheet">
+<style>
+    body {
+    font-family: 'Aleo', "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+</style>
+ {%- endif -%}
+
 
 <!-- headings -->
 
@@ -149,6 +160,20 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 {%- endif -%}
+
+
+{%- if site.data.typography.headings == "Aleo" -%}
+<link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="https://fonts.googleapis.com/css2?family=Aleo:wght@300;400;700&display=swap" rel="stylesheet">
+<style>
+    h1, h2, h3, h4, h5, h6 {
+        font-family: 'Aleo', "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    }
+</style>
+ {%- endif -%}
+
+
 
 {%- endif -%}
 

@@ -44,6 +44,7 @@ h4 {
   font-size: 8vw;
   line-height: 0.9;
   width: 50%;
+  font-stretch: expanded;
 }
 
 .home #main h2 {
@@ -56,12 +57,12 @@ h4 {
 
 .site-header .site-title {
   font-size: 1.6em;
+  padding-left: 1.05rem;
 }
 
 /* no site title on the home page  when large */
 #home .site-title {
   display: none;
-  padding-left: 1.05rem;
   color: black;
 }
 
