@@ -4,4 +4,10 @@ title: Credits
 published: true
 position: credits
 ---
-Home is where the heart is so they say although if you know anything about Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Image credit**: _Tanna_ (dir. Martin Butler and Bentley Dean, 2015, showing the protagonists Marie Wawa and the late Mungau Dain, © Phillippe Pennel)
+
+This research project is supported by Royal Holloway University, University of London; HARI (Humanities and Arts Research Institute); and the Department of Media Arts.
+
+![Royal Holloway University and HARI](../uploads/HARI.png)
+
+![Media Arts](../uploads/MediaArts_Logo.jpg)

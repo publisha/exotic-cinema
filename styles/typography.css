@@ -149,3 +149,22 @@ blockquote {
     display: block;
   }
 }
+
+.introduction .home-content p:first-of-type {
+  font-size: 115%;
+  font-weight: 500;
+  line-height: 1.37;
+  color: #5f3915;
+}
+
+.introduction .home-content p:first-of-type:first-letter {
+  background-color: #1a441c;
+  color: #ffffff;
+  float: left;
+  font-weight: 600;
+  display: inline-block;
+  font-size: 3em;
+  line-height: 0.7;
+  padding: 6px 6px 2px 6px;
+  margin: 0.12rem 0.1rem 0 0.1rem;
+}

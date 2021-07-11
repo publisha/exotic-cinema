@@ -3,15 +3,15 @@
   {%- assign items = site.homepageitems | sort: 'title' -%}
     {%- for homepageitem in items limit:2 -%}
     <section class="{{homepageitem.position}}">
-          <header>
+          <!-- <header>
             <h2 class="heading">
               <a aria-label="{{ homepageitem.title }}" class="post-link" href="{{ homepageitem.url | relative_url }}">
                 {{ homepageitem.title }}
               </a>
             </h2>
-          </header>
-          <div class="excerpt">
-              {{ homepageitem.excerpt }}
+          </header> -->
+          <div class="home-content">
+              {{ homepageitem.content | replace: "../uploads", "/uploads" }}
           </div>
     </section>
     {% endfor %}
