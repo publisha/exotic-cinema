@@ -151,10 +151,10 @@ blockquote {
 }
 
 .introduction .home-content p:first-of-type {
-  font-size: 115%;
+  /* font-size: 115%; */
   font-weight: 500;
   line-height: 1.37;
-  color: #5f3915;
+  /* color: #5f3915; */
 }
 
 .introduction .home-content p:first-of-type:first-letter {
@@ -162,7 +162,6 @@ blockquote {
   color: #ffffff;
   float: left;
   font-weight: 600;
-  display: inline-block;
   font-size: 3em;
   line-height: 0.7;
   padding: 6px 6px 2px 6px;

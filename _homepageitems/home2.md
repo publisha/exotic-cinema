@@ -4,9 +4,9 @@ title: Credits
 published: true
 position: credits
 ---
-**Image credit**: _Tanna_ (dir. Martin Butler and Bentley Dean, 2015, showing the protagonists Marie Wawa and the late Mungau Dain, © Phillippe Pennel)
+**Image credit**: _Tanna_ (dir. Martin Butler and Bentley Dean, 2015, showing the protagonists Marie Wawa and the late Mungau Dain, © Phillippe Penel)
 
-This research project is supported by Royal Holloway University, University of London; HARI (Humanities and Arts Research Institute); and the Department of Media Arts.
+This research project is supported by Royal Holloway, University of London; HARI (Humanities and Arts Research Institute); and the Department of Media Arts.
 
 ![Royal Holloway University and HARI](../uploads/HARI.png)
 
