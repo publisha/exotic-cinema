@@ -7,6 +7,8 @@ layout: page
 ---
 ### Professor Daniela Berghahn 
 
+![Professor Daniela Berghahn ](../uploads/img_0220.jpeg)
+
 I am Professor of Film Studies in the Department of Media Arts at Royal Holloway, University of London. Between 2017-2020, I was Associate Dean for Research at the Faculty of Arts and Social Sciences and, between 2016-2018, Director of the Humanities and Arts Research Institute at Royal Holloway. 
 
 I have widely published on post-war German cinema, the relationship between film, history and cultural memory and transnational cinema. My extensive work on migrant and diasporic cinema in Europe has been supported by a Research Fellowship and a Research Network Grant by the Arts and Humanities Research Council of Great Britain. The websites [www.migrantcinema.net](http://www.migrantcinema.net/) and [www.farflungfamilies.net](http://www.farflungfamilies.net/) document these two projects and contain a wealth of information and resources, including podcasts with filmmakers and other industry stakeholders, databases of relevant films, blogs, glossaries of critical terms and many more. 
