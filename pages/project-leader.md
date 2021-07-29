@@ -6,7 +6,7 @@ date: 2021-07-29T11:27:00.980Z
 show: true
 layout: page
 ---
-![Professor Daniela Berghahn ](../uploads/img_0220.jpeg)
+![Professor Daniela Berghahn](../uploads/img_0220.jpeg)
 
 I am Professor of Film Studies in the Department of Media Arts at Royal Holloway, University of London. Between 2017-2020, I was Associate Dean for Research at the Faculty of Arts and Social Sciences and, between 2016-2018, Director of the Humanities and Arts Research Institute at Royal Holloway. 
 
@@ -18,4 +18,4 @@ My publications include *[Head-On](http://shop.bfi.org.uk/new-releases/head-on-
 
 I serve on the editorial board of *[Studies in World Cinema: A Critical Journal](https://brill.com/view/journals/swc/swc-overview.xml)*  and on the editorial advisory board of *[Transnational Screens](https://www.tandfonline.com/toc/rtrc21/current).* Between 2012-2020 I was a Member of the AHRC Peer Review College. 
 
-For more details please visit my [staff page at Royal Holloway, University of London](https://pure.royalholloway.ac.uk/portal/en/persons/daniela-berghahn(1c55cf9c-6a53-4cea-8e0b-7628c53f237e).html):
+For more details please visit my [staff page at Royal Holloway, University of London](https://pure.royalholloway.ac.uk/portal/en/persons/daniela-berghahn(1c55cf9c-6a53-4cea-8e0b-7628c53f237e).html)
