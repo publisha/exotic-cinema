@@ -14,6 +14,10 @@ html {
     box-sizing: border-box;
 }
 
+p a {
+    word-break: break-word;
+}
+
 figure {
     margin: 0;
 }
@@ -28,7 +32,7 @@ body {
     color: #262626;
     font-family: "Source Sans Pro", "Trebuchet MS", Helvetica, Arial, sans-serif;
     font-size: 1.25em;
-    word-wrap: break-word;
+    /* word-wrap: break-word; */
     padding-top:35px;
     margin-bottom: 3.5rem;
 }
@@ -295,7 +299,7 @@ article, .comments {
 }
 
 article header {
-    margin-bottom: 6%;
+    margin-bottom: 1rem;
     text-align: left;
 }
 
@@ -758,7 +762,8 @@ align-items: center;
 .site-header nav li {
     display: inline;
     float: left;
-    margin-right: 0.4em
+    margin-right: 0.4em;
+    margin-bottom:0;
 }
 
 .site-header nav a:hover {
@@ -1045,6 +1050,20 @@ ul.share-buttons .sr-only {
   margin:auto;
   max-height: 600px;
 }
+
+.post-content figure {
+    padding: 0.5rem;
+    margin: 0 0 1rem 1rem;
+    float: right;
+    width: 30%;
+    border: 1px solid rgb(170, 170, 170);
+    font-size: 0.8rem;
+    clear: both;
+  }
+  
+  .post-content figure a {
+    display: block;
+  }
 
 
 .call-out {
@@ -1383,11 +1402,7 @@ a.word {
     height: 100%;
     /* font-size: 1.2em; */
     text-align: left;
-    color: #FFF;
-    background: #337ab7 no-repeat;
-    background-size: cover;
-    background-position: top left;
-    /* background-origin: content-box; */
+    color: #070000;
     
   }
 

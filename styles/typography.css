@@ -1,7 +1,7 @@
 body {
   color: #262626;
   font-family: "Source Sans Pro", "Trebuchet MS", Helvetica, Arial, sans-serif;
-  font-size: 1.25em;
+  font-size: 1.15em;
 }
 
 h1,
@@ -74,7 +74,11 @@ ol,
 ul {
   list-style-position: inherit;
   padding-left: 2em;
-  font-size: 0.8em;
+  font-size: 1em;
+}
+
+.post-content li {
+  margin-bottom: 0.8em;
 }
 
 a {
@@ -96,9 +100,9 @@ blockquote {
 }
 
 /* change the first paragraph in a blog post */
-.post-content p:first-child {
+/* .post-content p:first-child {
   font-size: 1.2em;
-}
+} */
 
 /* when the screen gets small the fonts then change size. There are 2 steps here. You can leave this alone*/
 

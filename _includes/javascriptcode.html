@@ -15,33 +15,29 @@
         $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.png'],a[href$='.gif']").attr('rel', 'gallery').attr('class', 'postimage').fancybox();
     </script>
 
-		<!-- here follows a script to put the alt tag to a caption under the images -->
-
 <script>
-$(".post-content img").each(function() {
-    var imageCaption = $(this).attr("alt");
-    if (imageCaption != '') {
-        $("<span class='caption'>" + imageCaption +
-            "</span>").insertAfter(this);
-    }
-});
-</script>
-
-
-<!-- add a link to the image itself and wrap in figure and add caption from alt -->
-<script>
-  $(document).ready(function() {
-    $('.post-content img').each(function ()
-    {
-      var imageCaption = $(this).attr("alt");
-       var currentImage = $(this);
-       currentImage.wrap("<figure><a class='popup' href='" + currentImage.attr("src") + "'/><span class='caption'>" + imageCaption +
-              "</span></figure>");
-      
+  jQuery(document).ready(function($) {
+    $("img").each(function() {
+        if($(this).attr("alt") == '')
+        $(this).attr("alt") = {{ }}
+        else $(this).parent().attr("title", $(this).attr("src"));
     });
   });
   </script>
 
+<!-- add a link to the image itself and wrap in figure and add caption from alt -->
+<script>
+$(document).ready(function() {
+  $('.post-content img').each(function ()
+  {
+    var imageCaption = $(this).attr("alt");
+     var currentImage = $(this);
+     currentImage.wrap("<figure><a class='popup' href='" + currentImage.attr("src") + "'/><span class='caption'>" + imageCaption +
+            "</span></figure>");
+    
+  });
+});
+</script>
 
 <!-- now follows the javascript to show that a post can be edited -->
 <script>
@@ -51,7 +47,7 @@ $(".post-content img").each(function() {
 }
 </script>
 
-
+{%-if page.layout=="home"-%}
 <!-- reveal the heading on scroll -->
 <script>
   if ($(window).width() > 500) {
@@ -65,3 +61,4 @@ $(".post-content img").each(function() {
   });
 }
 </script>
+{%-endif-%}
