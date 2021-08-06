@@ -59,6 +59,34 @@ collections:
         widget: "hidden"
         default: "post"
 
+  - name: "films"
+    label: "Films" # Used in the UI
+    label_singular: "Film"
+    description: "Add a film here"
+    folder: "_films/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    delete: true
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    media_folder: "/uploads"
+    public_folder: "../uploads"
+    editor:
+      preview: false
+    fields: # The fields for each document, usually in front matter
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Date entered"
+        name: "date"
+        widget: "datetime"
+      - label: "About this film"
+        name: "body"
+        widget: "markdown"
+        hint: "Add here all about this film"
+      - label: "Layout"
+        name: "layout"
+        widget: "hidden"
+        default: "post"
+
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
     label: "Posts" # Used in the UI
     label_singular: "Post"
