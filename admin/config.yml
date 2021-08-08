@@ -83,6 +83,11 @@ collections:
         widget: "image"
         required: false
         hint: "Upload one image here for the listing page. Others can be added in the About this Film field."
+      - label: "Caption"
+        name: "caption"
+        widget: "string"
+        required: false
+        hint: "Add an optional caption here otherwise the film title will appear as the tag."
       - label: "Director(s)"
         name: "director"
         widget: "string"
