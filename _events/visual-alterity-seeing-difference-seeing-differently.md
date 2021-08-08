@@ -9,15 +9,13 @@ Keynote Speaker: Professor Randall Halle, the Klaus W. Jonas Professor of German
 
 ![Visual Alterity Symposium ](../uploads/visual-alterity-poster.jpg)
 
-![]()
-
 The Symposium explores the concept of visual alterity from two different angles, considering, on the one hand, the perception of cultural difference in dance, fashion photography and contemporary cinema, and, on the other hand, ways of seeing differently, drawing on experimental cinema, video games, music video and virtual and augmented reality.
 
 Contemporary interest in cultural difference reflects a disenchantment with the perceived homogeneity of Western culture, which has made culturally Othered goods a prized commodity. In a world of global interconnectedness and transnational flows, the valorisation of alterity in the shape of cultural appropriation, (self-)exoticism and neo-Orientalism,  can no longer be merely conceived of as a projection of Orientalist fantasies of the Other from one centre, the West, but that it emanates from multiple localities and is multi-directional in perspective. 
 
 Although first and foremost, the term ‘visual alterity’ conjures up visions of Othered cultures, it also denotes ways of seeing differently which moving image technology and virtual reality within simulated and immersive environments make possible. Multi-stable images, visual illusions and digital technologies that have the capacity to augment reality or to transport and immerse viewers into a different, non-physical reality challenge our sense of the real and invite us to see differently. 
 
-**Programme** 
+## Programme
 
 12.00-12.10  Welcome & Coffee
 
@@ -61,9 +59,7 @@ Although first and foremost, the term ‘visual alterity’ conjures up visions 
 
  Full programme with abstracts available at: **tinyurl.com/visaltprog**
 
- 
-
-**Abstracts**
+## Abstracts
 
 **Terri Ochiagha, Department of English** 
 
