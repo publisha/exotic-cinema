@@ -1,0 +1,28 @@
+<div class="posts">
+
+    {%- assign items = site.films | sort: 'title' -%}
+      {%- for film in items limit:{{include.range}} -%}
+      <div class="post-teaser">
+          <span>
+            <header>
+              <h1>
+                <a aria-label="{{ film.title }}" class="post-link" href="{{ film.url | relative_url }}">
+                  {{ film.title }}
+                </a>
+              </h1>
+            </header>
+            <div class="excerpt">
+                <!-- {% if film.still %}
+                  <img class="thumb" src="{{ film.still | replace: '../uploads', '/uploads' }}" alt="{{ film.title }}" />
+                {% endif %} -->
+                {{ film.content | truncatewords: 50 | markdownify }}
+                <span class="permalink">
+                  <a aria-label="{{ film.title }}" class="post-link" href="{{ film.url | relative_url }}">Read more <i class="fa fa-caret-right fa-2x"></i></a>
+                </span>
+                    <!-- <p class="info"><b>Release Date:</b> {{ catalogue.released | date: "%B %Y" }}</p> -->
+            </div>
+        </span>
+      </div>
+      {% endfor %}
+  </div>
+  

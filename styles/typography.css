@@ -40,6 +40,10 @@ h4 {
   font-size: 1.15em;
 }
 
+header#main h1 {
+  font-size: 2.8em;
+}
+
 .home #main h1 {
   font-size: 8vw;
   line-height: 0.9;
@@ -74,7 +78,7 @@ ol,
 ul {
   list-style-position: inherit;
   padding-left: 2em;
-  font-size: 1em;
+  font-size: 0.9em;
 }
 
 .post-content li {
@@ -104,56 +108,6 @@ blockquote {
   font-size: 1.2em;
 } */
 
-/* when the screen gets small the fonts then change size. There are 2 steps here. You can leave this alone*/
-
-@media screen and (max-width: 768px) {
-  body {
-    font-size: 1.1em;
-  }
-
-  h1 a {
-    font-size: 0.95em;
-  }
-
-  header#main h1 {
-    font-size: 2.1em;
-  }
-
-  p {
-    font-size: 1.1em;
-  }
-}
-
-@media screen and (max-width: 450px) {
-  body {
-    font-size: 0.9em;
-  }
-
-  h1 a {
-    font-size: 0.9em;
-  }
-
-  header#main h1 {
-    font-size: 1.8em;
-    display: none;
-  }
-
-  .home #main h2 {
-    font-size: 3.5vw;
-    line-height: 1.3;
-    width: 35%;
-    margin-top: 0;
-  }
-
-  p {
-    font-size: 1.3em;
-  }
-
-  #home .site-title {
-    display: block;
-  }
-}
-
 .introduction .home-content p:first-of-type {
   /* font-size: 115%; */
   font-weight: 500;
@@ -170,4 +124,74 @@ blockquote {
   line-height: 0.7;
   padding: 6px 6px 2px 6px;
   margin: 0.12rem 0.1rem 0 0.1rem;
+}
+
+li.active {
+  background-color: #ebce7f;
+}
+
+/* when the screen gets small the fonts then change size. There are 2 steps here. You can leave this alone*/
+
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 1.1em;
+  }
+
+  h1 a {
+    font-size: 0.95em;
+  }
+
+  #home header#main h1 {
+    font-size: 2.1em;
+    display: none;
+  }
+
+  #home .site-title {
+    display: block;
+  }
+
+  p {
+    font-size: 1.1em;
+  }
+
+  .post-content figure {
+    padding: 0.5rem;
+    margin: 0 0 1em 0;
+    float: none;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  body {
+    font-size: 0.9em;
+  }
+
+  h1 a {
+    font-size: 0.9em;
+  }
+
+  #home header#main h1 {
+    font-size: 1.8em;
+    display: none;
+  }
+
+  header#main h2 {
+    font-size: 1em;
+  }
+
+  .home #main h2 {
+    font-size: 3.5vw;
+    line-height: 1.3;
+    width: 35%;
+    margin-top: 0;
+  }
+
+  p {
+    font-size: 1.3em;
+  }
+
+  #home .site-title {
+    display: block;
+  }
 }

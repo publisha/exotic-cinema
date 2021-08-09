@@ -92,7 +92,7 @@ collections:
         name: "director"
         widget: "string"
       - label: "Year and Place of Release"
-        name: "year"
+        name: "released"
         widget: "string"
         hint: "Please type a place and a year"
       - label: "About this film"
@@ -102,11 +102,11 @@ collections:
       - label: "IMDB Link"
         name: "imdb"
         widget: "string"
-        hint: "Paste the complete URL from thr Internet Movie Database in here for this film."
+        hint: "Paste the complete URL from the Internet Movie Database in here for this film."
       - label: "Layout"
         name: "layout"
         widget: "hidden"
-        default: "post"
+        default: "film"
 
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
     label: "Posts" # Used in the UI

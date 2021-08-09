@@ -38,6 +38,12 @@ collections:
   homepageitems:
     output: true
     layout: page
+  events:
+    output: true
+    layout: events
+  films:
+    output: true
+    layout: film
 
 # BUILD SETTINGS
 kramdown:

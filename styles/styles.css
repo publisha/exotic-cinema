@@ -1,4 +1,4 @@
-/* Version 2 */
+/* Version 3 */
 /* wanna show some code */
 @import "highlighter.css";
 
@@ -757,7 +757,7 @@ h3.tag-anchor i {
 
 .site-header {
   background: #fff;
-  opacity: 0.8;
+  opacity: 1;
   width: 100%;
   top: 0;
   padding-right: 20px;
@@ -802,6 +802,7 @@ h3.tag-anchor i {
   list-style: none;
   margin: 0;
   padding: 0;
+  /* flex: 1 0 auto; */
 }
 
 .site-header nav ul {
@@ -817,12 +818,16 @@ h3.tag-anchor i {
 .site-header nav li {
   display: inline;
   float: left;
-  margin-right: 0.4em;
-  margin-bottom: 0;
+  margin: 0;
+  padding: 5px 9px;
 }
 
 .site-header nav a:hover {
-  color: #337ab7;
+  color: #812db9;
+}
+
+.site-header nav li:hover {
+  background-color: #e4fdbd;
 }
 
 .site-header nav a#pull i {
@@ -856,17 +861,22 @@ h3.tag-anchor i {
     display: none !important;
   }
 
-  nav ul {
+  .site-header nav ul {
     width: 100%;
     overflow: hidden;
     transition: font-size 0.25s, margin 0.25s, padding 0.25s, opacity 0.5s 0.25s;
     background: white;
-    z-index: 100;
-    opacity: 0.9;
+    z-index: 50;
+    opacity: 1;
     position: fixed;
-    right: 0;
+    left: 0;
     top: 35px;
-    border-right: 20px solid white;
+    float: none;
+    text-align: center;
+    box-shadow: 0px 6px 11px 2px rgba(115, 115, 115, 0.75);
+    -webkit-box-shadow: 0px 6px 11px 2px rgba(115, 115, 115, 0.75);
+    -moz-box-shadow: 0px 6px 11px 2px rgba(115, 115, 115, 0.75);
+    font-size: 1.2em;
   }
 
   nav ul.hide {
@@ -880,8 +890,9 @@ h3.tag-anchor i {
 
   nav li {
     width: 100%;
-    float: left;
+    /* float: left; */
     position: relative;
+    margin: 0 auto;
   }
 
   nav a {
@@ -1101,7 +1112,7 @@ ul.share-buttons .sr-only {
   padding: 0.5rem;
   margin: 0 0 1rem 1rem;
   float: right;
-  width: 30%;
+  width: 50%;
   border: 1px solid rgb(170, 170, 170);
   font-size: 0.8rem;
   clear: both;
@@ -1541,4 +1552,29 @@ a.word {
   display: block;
   margin: 0 auto;
   padding: 0;
+}
+
+.eventitem img {
+  display: block;
+  max-width: 50%;
+  float: right;
+}
+
+.thumb {
+  max-width: 120px;
+  padding: 0;
+  float: right;
+  margin-left: 1rem;
+}
+
+.permalink {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 0.7em;
+  position: relative;
+  top: -1.5rem;
+}
+
+.permalink i {
+  position: relative;
+  top: 4px;
 }
