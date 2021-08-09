@@ -1578,3 +1578,9 @@ a.word {
   position: relative;
   top: 4px;
 }
+
+/* hide the event pictures on the events listing */
+
+#events img {
+  display: none;
+}

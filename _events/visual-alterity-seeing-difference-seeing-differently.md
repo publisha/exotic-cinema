@@ -1,7 +1,7 @@
 ---
 title: "Visual Alterity: Seeing Difference, Seeing Differently "
-date: 2019-10-25T17:19:05.760Z
-layout: post
+eventdate: 2019-10-25T17:19:05.760Z
+layout: event
 ---
 An interdisciplinary symposium hosted by the Humanities and Arts Research Institute at Royal Holloway
 
