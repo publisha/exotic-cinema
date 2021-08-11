@@ -4,13 +4,15 @@ date: 2021-08-11T10:41:51.662Z
 eventdate: 2017-06-16T10:41:00.000Z
 layout: post
 ---
+This international conference aims to reassess the exotic in contemporary transnational cinema. It asks how the collapsed distances of globalisation and the transnational flows of media and people have affected exoticism, which is no longer exclusively the projection of Orientalist fantasies of the Other from one centre, the West, but which emanates from multiple localities and is multi-directional in perspective. 
+
 ![](../uploads/exoticism-conference-poster.jpg)
 
-This conference aims to reassess the exotic in contemporary transnational cinema. It asks how the collapsed distances of globalisation and the transnational flows of media and people have affected exoticism, which is no longer exclusively the projection of Orientalist fantasies of the Other from one centre, the West, but which emanates from multiple localities and is multi-directional in perspective. Bollywood’s song and dance sequences, performed against the backdrop of the Swiss Alps and other spectacular foreign settings, the cocktail of exotic locations from around the world that add local colour to James Bond movies and the transnational revival of the Chinese wuxia genre all capitalise on the spectacle of the exotic in a bid for box office success. Music, as a multi-layered semiotic device, has been used abundantly to evoke the Other in background scores as well as in song sequences in musical films. Unfamiliar sounds may also be used for the purposes of aural spectacle, feeding demand for newness in rapidly changing capitalist entertainment industries. In addition, its flexibility allows for Other sounds to be interwoven with familiar idioms.
+Bollywood’s song and dance sequences, performed against the backdrop of the Swiss Alps and other spectacular foreign settings, the cocktail of exotic locations from around the world that add local colour to James Bond movies and the transnational revival of the Chinese wuxia genre all capitalise on the spectacle of the exotic in a bid for box office success. Music, as a multi-layered semiotic device, has been used abundantly to evoke the Other in background scores as well as in song sequences in musical films. Unfamiliar sounds may also be used for the purposes of aural spectacle, feeding demand for newness in rapidly changing capitalist entertainment industries. In addition, its flexibility allows for Other sounds to be interwoven with familiar idioms.
 
 The international conference is is part of Daniela Berghahn (Media Arts) and Anna Morcom's (Music) joint HARI Research Fellowship and hosted by the Humanities and Arts Research Institute and the Media Arts Department at Royal Holloway. Bringing together researchers with special interest and expertise in contemporary transnational and world cinema, film music and ethnomusicologists, this conferencewill explore how contemporary transnational cinemas imagine the exotic, paying particular attention to the role of sound, music and spectacle.
 
-Keynote Speakers: 
+**Keynote Speakers:** 
 
 Professor Rachel Dwyer, Professor of Indian Cultures and Cinema, School of Oriental and African Studies, University of London
 
