@@ -6,8 +6,6 @@ layout: event
 ---
 The Symposium explores the concept of visual alterity from two different angles, considering, on the one hand, the perception of cultural difference in dance, fashion photography and contemporary cinema, and, on the other hand, ways of seeing differently, drawing on experimental cinema, video games, music video and virtual and augmented reality.
 
-
-
 ![Visual Alterity Symposium ](../uploads/visual-alterity-poster.jpg)
 
 Although first and foremost, the term ‘visual alterity’ conjures up visions of Othered cultures, it also denotes ways of seeing differently which moving image technology and virtual reality within simulated and immersive environments make possible. Multi-stable images, visual illusions and digital technologies that have the capacity to augment reality or to transport and immerse viewers into a different, non-physical reality challenge our sense of the real and invite us to see differently. An interdisciplinary symposium hosted by the Humanities and Arts Research Institute at Royal Holloway
