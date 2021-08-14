@@ -7,7 +7,7 @@ layout: post
 ---
 This multi-disciplinary symposium aims to shift the terms of the debate around exoticism beyond dominant scholarly discourses such as (neo-)Orientalism and (neo-)imperialism by bringing it into dialogue with alternative frameworks, notably cultural cosmopolitanism,  cultural translation, globalisation and hybridity. 
 
-![](../uploads/harc-exotic-symposium-poster.jpg)
+![Symposium Poster](../uploads/harc-exotic-symposium-poster.jpg)
 
 Drawing on research expertise from across the Royal Holloway and including staff, creative practitioners and PGR students, the symposium encourages new critical approaches to analysing intercultural encounters and their cultural representations. 
 
