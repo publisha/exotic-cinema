@@ -1,7 +1,7 @@
 ---
 title: "Embrace of the Serpent (El abrazo de la serpiente) "
 date: 2021-08-07T17:46:10.136Z
-still: ../uploads/embraceserpent_karmakate_peccadillo-pictures.jpg
+image: ../uploads/embraceserpent_karmakate_peccadillo-pictures.jpg
 director: "Ciro Guerra "
 released: Columbia, 2015
 imdb: https://www.imdb.com/title/tt4285496/?ref_=fn_al_tt_1

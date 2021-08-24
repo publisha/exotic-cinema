@@ -84,7 +84,7 @@ collections:
         name: "date"
         widget: "datetime"
       - label: "Film Still"
-        name: "still"
+        name: "image"
         widget: "image"
         required: false
         hint: "Upload one image here for the listing page. Others can be added in the About this Film field."
@@ -132,7 +132,7 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - {
           label: "Featured Image",
-          name: "header_feature_image",
+          name: "image",
           widget: "image",
           required: false,
           hint: "This image will appear at the top of your post in the listing but over the feature image on the article's page.",

@@ -1,8 +1,8 @@
 ---
 layout: home
 title: This is the title
-permalink: /index.html
+permalink: /
 header_feature_image: /uploads/tomatoes.jpg
-published: true
+published: false
 show: false
 ---

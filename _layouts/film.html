@@ -9,8 +9,8 @@ layout: default
       {% endif %}
   </header>
   <section class="post-content">
-    {% if page.still %}
-    <img src="{{ page.still | replace: '../uploads', '/uploads' }}" alt="{{ page.title }}" />
+    {% if page.image %}
+    <img src="{{ page.image | replace: '../uploads', '/uploads' }}" alt="{{ page.title }}" />
     {% endif %}
     <section class="details">
  
