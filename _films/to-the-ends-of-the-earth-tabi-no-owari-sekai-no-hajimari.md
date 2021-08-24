@@ -1,7 +1,7 @@
 ---
 title: To the Ends of the Earth (Tabi no owari sekai no hajimari )
 date: 2021-08-24T15:06:15.968Z
-still: ../uploads/to_the_ends_of_the_earth.jpg
+image: ../uploads/to_the_ends_of_the_earth.jpg
 director: Kiyoshi Kurosawa
 released: "Japan and Uzbekistan, 2019 "
 imdb: https://www.imdb.com/title/tt8681422/?ref_=fn_al_tt_2

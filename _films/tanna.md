@@ -1,7 +1,7 @@
 ---
 title: "Tanna "
 date: 2021-08-24T10:15:58.509Z
-still: ../uploads/tanna_poster_us.jpg
+image: ../uploads/tanna_poster_us.jpg
 director: Martin Butler and Bentley Dean
 released: "Australia and Vanuata, 2015 "
 imdb: https://www.imdb.com/title/tt4239726/?ref_=fn_al_tt_1

@@ -1,7 +1,7 @@
 ---
 title: Hotel Salvation (Mukti Bhawan)
 date: 2021-08-24T11:23:10.582Z
-still: ../uploads/hotelsalvation.jpg
+image: ../uploads/hotelsalvation.jpg
 director: Shubhashish Bhutiani
 released: "India, 2016 "
 imdb: https://www.imdb.com/title/tt5997928/?ref_=fn_al_tt_1

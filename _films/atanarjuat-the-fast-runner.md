@@ -1,7 +1,7 @@
 ---
 title: "Atanarjuat: The Fast Runner "
 date: 2021-08-24T10:42:39.765Z
-still: ../uploads/atanarjuat.png
+image: ../uploads/atanarjuat.png
 caption: ""
 director: Zacharias Kunuk
 released: Canada, 2001

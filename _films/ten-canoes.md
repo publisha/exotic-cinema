@@ -1,7 +1,7 @@
 ---
 title: "Ten Canoes "
 date: 2021-08-24T10:31:22.095Z
-still: ../uploads/tencanoes.jpg
+image: ../uploads/tencanoes.jpg
 director: Rolf de Heer and Peter Djigirr
 released: "Australia, 2006 "
 imdb: https://www.imdb.com/title/tt0466399/?ref_=fn_al_tt_1
