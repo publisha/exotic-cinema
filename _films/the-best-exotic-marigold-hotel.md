@@ -1,7 +1,7 @@
 ---
 title: "The Best Exotic Marigold Hotel "
 date: 2021-08-24T15:43:23.457Z
-image: ../uploads/bestexoticmarigoldhotel.jpg
+image: ../uploads/the_best_exotic_marigold.jpg
 director: John Madden
 released: United Kingdom, United States, United Arab Emirates, 2011
 imdb: https://www.imdb.com/title/tt1412386/?ref_=fn_al_tt_1
