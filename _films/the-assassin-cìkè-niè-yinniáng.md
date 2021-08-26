@@ -1,7 +1,7 @@
 ---
 title: The Assassin (Cìkè Niè Yinniáng)
 date: 2021-08-26T17:36:33.218Z
-image: ../uploads/fig3_assassin_1.jpg
+image: ../uploads/theassassin1.png
 director: Hou Hsiao-hsien
 released: "Taiwan, Hong Kong, China, 2015 "
 imdb: https://www.imdb.com/title/tt3508840/?ref_=fn_al_tt_2
