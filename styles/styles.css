@@ -1595,3 +1595,13 @@ a.word {
 #events img {
   display: none;
 }
+
+/* lets have columns when wide */
+
+@media screen and (min-width: 1400px) {
+  .introduction .home-content {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+  }
+}
