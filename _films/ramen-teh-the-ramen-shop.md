@@ -1,5 +1,5 @@
 ---
-title: Ramen Teh (The Ramen Shop)
+title: The Ramen Shop (Ramen Teh)
 date: 2021-11-15T15:19:33.088Z
 image: ../uploads/ramenshop.jpg
 director: Eric Khoo
