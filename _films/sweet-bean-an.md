@@ -1,0 +1,10 @@
+---
+title: "Sweet Bean (An) "
+date: 2021-11-15T15:39:03.433Z
+image: ../uploads/sweetbean.jpeg
+director: Naomi Kawase
+released: Japan, France, Germany, 2015
+imdb: https://www.imdb.com/title/tt4298958/
+layout: film
+---
+*Sweet Bean* is a sentimental feel-good film by Japanese director Naomi Kawase that centres on a *dorayaki* snack stall, where the three protagonists’ lives converge over the preparation and consumption of *dorayaki*, a Japanese snack consisting of two small pancakes filled with sweet azuki bean paste. Sentaro’s snack stall gains in popularity when Tokue, a tottering elderly lady, joins forces with him and replaces the tinned manufactured filling with her home-cooked sweet bean paste. The soaking, slow cooking and stirring takes hours and hours but Tokue prepares the beans with devotion and patience and even listens to the stories they whisper in her ears: ‘what breeze blew across the beanstalks at their birth’. She has a spiritual connection to all things around her, be it the abundance of cherry trees and the pink petals they drop on the path, birds, the moon or red azuki beans. Brought and held together by the sweet sticky bean paste, the three social outsiders at the film’s narrative centre form a happy three-generational family: Sentaro, a former prison inmate, Tokue, a patient in a sanatorium for people afflicted by leprosy on the outskirts of Tokyo, and Wakana, a teenager neglected by her single mother and regular patron of the snack stall. What makes *Sweet Bean* an exotic food film despite its lack of visual opulence is that it invokes cultural cliches commonly associated with Japan, such as the visual spectacle of pink cherry blossoms, the extreme emotional reserve and politeness with which the characters interact, and, more specifically relating to food, the notion that there is a profoundly spiritual dimension to the preparation and consumption of food.
