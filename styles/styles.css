@@ -1598,10 +1598,18 @@ a.word {
 
 /* lets have columns when wide */
 
-@media screen and (min-width: 1400px) {
+@media screen and (min-width: 1200px) {
   .introduction .home-content {
     -webkit-column-count: 2;
     -moz-column-count: 2;
     column-count: 2;
+  }
+}
+
+@media screen and (min-width: 1700px) {
+  .introduction .home-content {
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
   }
 }
