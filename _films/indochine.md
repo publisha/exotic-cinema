@@ -1,7 +1,7 @@
 ---
 title: Indochine
 date: 2022-04-21T16:39:59.861Z
-image: ../uploads/indochine.jpeg
+image: ../uploads/indochine_mother_daughter.jpg
 director: Régis Wargnier
 released: "France, 1992 "
 imdb: https://www.imdb.com/title/tt0104507/?ref_=fn_al_tt_1
