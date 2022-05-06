@@ -5,9 +5,13 @@ date: 2022-04-22T11:12:18.899Z
 eventdate: 2022-05-09T11:12:18.940Z
 layout: post
 ---
+![](../uploads/embraceserpent_karmakate.jpg)
+
 I feel honoured to have been invited to give the Annual Lecture of the Centre for World Cinemas and Digital Cultures at the University of Leeds this year. 
 
-The title of the lecture is **Decentring the Exotic in Contemporary World Cinema**
+The title of the lecture is **Decentring the Exotic in Contemporary World Cinema,** 4-5.30pm 
+
+Please contact s.dennison@leeds.ac.uk for the Zoom link. 
 
 This presentation examines why exoticism is central to thinking about the global dynamics of world cinema and its transnational reception. Offering a theoretical discussion of exoticism, alongside the closely related concepts of autoethnography and cultural translation, I propose that the exotic gaze is a particular mode of aesthetic perception that is simultaneously anchored in the filmic text and elicited in the spectator in the process of transnational reception. Like world cinema, exoticism is a travelling concept that depends on mobility and the crossing of cultural boundaries to come into existence. 
 
