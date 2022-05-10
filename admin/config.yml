@@ -283,7 +283,7 @@ collections:
             widget: "image"
             allow_multiple: false
             hint: "Note: You are simply replacing this image with the same name. Do NOT rename. This image will show on all pages. It needs to be a maximum of 70 pixels square."
-            required: true
+            required: false
           - label: "Favicon"
             name: "favicon"
             widget: "image"
