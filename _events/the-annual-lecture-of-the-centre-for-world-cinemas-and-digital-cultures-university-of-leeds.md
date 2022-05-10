@@ -5,9 +5,11 @@ date: 2022-04-22T11:12:18.899Z
 eventdate: 2022-05-09T11:12:18.940Z
 layout: post
 ---
-![](../uploads/embraceserpent_karmakate.jpg)
-
 I feel honoured to have been invited to give the Annual Lecture of the Centre for World Cinemas and Digital Cultures at the University of Leeds this year. 
+
+![Embrace of the Serpent* (Ciro Guerra, 2015)](../uploads/embraceserpent_karmakate.jpg "Embrace of the Serpent* (Ciro Guerra, 2015)")
+
+
 
 The title of the lecture is **Decentring the Exotic in Contemporary World Cinema,** 4-5.30pm 
 
