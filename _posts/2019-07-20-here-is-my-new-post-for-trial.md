@@ -2,13 +2,13 @@
 layout: post
 title: Here is a blog post sample
 date: 2020-06-24 17:50
-header_feature_image: /uploads/867FAB82-62D7-4C53-8EDC-5114095CF8AA.jpeg
+image: /uploads/867FAB82-62D7-4C53-8EDC-5114095CF8AA.jpeg
 caption: Cobbles
 ---
 
 **Please do not edit this post.** You should create a new post and then delete this sample when you are ready. Do not delete this post until you have created at least one of your own. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page. Only the first paragraph will appear on the home page.
 
-The `header_feature_image` is optional and you should enter the path to it in the metadata above.
+The `feature_image` is optional and you should enter the path to it in the metadata above.
 
 > Here follows some more placeholder text. You can see the `markdown` when viewing this post in Atom. This is a *blockquote*.
 
