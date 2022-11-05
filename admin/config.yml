@@ -137,14 +137,6 @@ collections:
           required: false,
           hint: "This image will appear at the top of your post in the listing but over the feature image on the article's page.",
         }
-      - {
-          label: "Title text colour over the feature image",
-          name: "title_color",
-          widget: "color",
-          required: false,
-          default: "#ffffff",
-          hint: "The text is white by default, but you can change the colour to get more contrast against the image.",
-        }
       - { label: "Caption", name: "caption", widget: "string", required: false }
       - {
           label: "Comments",

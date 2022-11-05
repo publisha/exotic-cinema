@@ -1,14 +1,18 @@
 ---
 layout: default
 ---
-<article id="page-content" {%- if page.header_feature_image > "" -%}class="feature-image"{% endif %}>
+<article id="page-content">
   <header id="main"><span id="user"></span>
-      <h1 style="color: {{ page.title_color }};" id="{{ page.title | escape | url_encode }}" class="title">{{ page.title }}</h1>
-
+    <h1 class="title">{{ page.title }}</h1>
         {%- include post_info.html post=page -%}
   </header>
   <section class="post-content">
+    {% if page.image %}
+    <img src="{{ page.image | replace: '../uploads', '/uploads' }}" alt="{{ page.title }}" />
+    {% endif %}
+    <section class="details">
       {{ content | replace: "../uploads", "/uploads" }}
+    </section>
   </section>
   <!-- Social media shares -->
   {% include share_buttons.html %}
