@@ -12,9 +12,3 @@ Contemporary Western societies’ fascination with exotic food and the knowledge
 [Nespresso's Reviving Origins campaign ](https://nestle-nespresso.com/news/nespresso_launches_Reviving_Origins_to_bring_back_lost_coffees)combines exoticism with the cosmopolitan agenda of sustainability and safeguarding the future of local communities. The coffee company has teamed up (not just with George Clooney) but also with [*The National Geographic* ](https://www.nationalgeographic.com/beyond-the-bean/#world_map)whose photographers create alluring photographs of local workers in colourful clothes, harvesting coffee in far-away places, such as ‘the remote yet spirited region of Caquetá in Colombia’ where they are salvaging plantations that were under threat of disappearance ‘due to political issues’. However, thanks to Nespresso’s sustainable ‘Reviving Origins’ program’ local farmers in ‘fading regions’ are now looking towards a bright future (Nespresso/National Geographic brochure n/d and Nespresso Reviving Origins website). 
 
 <div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/qmIdqToZ6hU?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
- 
-
-
-
-![]()
