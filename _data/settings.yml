@@ -1,12 +1,15 @@
 title: Exotic Cinema
 description: Encounters with Cultural Difference in Contemporary Transnational Cinema
-header_text: Exotic Cinema
-header_text_color: "#ffffff"
 footer_text: Copyright 2022 Daniela Berghahn
 header_feature_image: ../uploads/TANNAMainStillDainandWawaonrock.jpg
-bannerheight: "35vmax"
-gridlayout: true
-logo:
+header_text: Exotic Cinema
+header_text_color: "#ffffff"
+bannerheight: 35vmax
+logo: null
 favicon: /uploads/favicon.ico
-upzoom: true
+gridlayout: true
 fixednavbar: true
+upzoom: true
+items:
+  - name: Blog
+    siteurl: /blog/
