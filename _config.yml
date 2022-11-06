@@ -60,7 +60,8 @@ kramdown:
     block:
       line_numbers: true
       start_line: 1
-permalink: pretty
+# permalink: pretty
+permalink: /blog/:year/:month/:day/:title/
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
 exclude: [".jekyll-cache", "Gemfile", "README.md"]
 github: [metadata]
