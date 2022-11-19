@@ -7,7 +7,7 @@ layout: post
 ---
 I feel honoured to have been invited to give the Annual Lecture of the Centre for World Cinemas and Digital Cultures at the University of Leeds this year. 
 
-![Embrace of the Serpent* (Ciro Guerra, 2015)](../uploads/embraceserpent_karmakate_peccadillo-pictures.jpg "Embrace of the Serpent* (Ciro Guerra, 2015)")
+![Embrace of the Serpent* (Ciro Guerra, 2015)](../uploads/embraceserpent_canoe_small.jpg "Embrace of the Serpent* (Ciro Guerra, 2015)")
 
 The title of the lecture is **Decentring the Exotic in Contemporary World Cinema,** 4-5.30pm 
 
