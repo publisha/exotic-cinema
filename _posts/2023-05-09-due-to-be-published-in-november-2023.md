@@ -7,11 +7,9 @@ comments: false
 tags:
   - ""
 ---
-*Exotic Cinema* is the first systematic analysis of decentred exoticism in contemporary transnational and world cinema. By critically examining regimes of visuality such as the imperial, the ethnographic and the exotic gaze, which have colonised our minds and ways of looking, Daniela Berghahn makes an important contribution to the urgent agenda of decolonising film studies. (from the website of Edinburgh University Press)
+I am so excited to announce that my book [*Exotic Cinema* ](https://edinburghuniversitypress.com/book-exotic-cinema.html)will be published in November 2023. Here's the announcement on the website of [Edinburgh University Press](https://edinburghuniversitypress.com/book-exotic-cinema.html): 
 
-I am so excited to announce that my book [*Exotic Cinema* ](https://edinburghuniversitypress.com/book-exotic-cinema.html)will be published in November 2023. 
-
-Here's the announcement on the website of [Edinburgh University Press](https://edinburghuniversitypress.com/book-exotic-cinema.html): 
+*Exotic Cinema* is the first systematic analysis of decentred exoticism in contemporary transnational and world cinema. By critically examining regimes of visuality such as the imperial, the ethnographic and the exotic gaze, which have colonised our minds and ways of looking, Daniela Berghahn makes an important contribution to the urgent agenda of decolonising film studies.
 
 **A critical reassessment of the aesthetic strategies and cultural value of exoticism in contemporary transnational cinemas**
 
