@@ -11,7 +11,7 @@ I am so excited to announce that my book [*Exotic Cinema* ](https://edinburghuni
 
 Here's the announcement on the website of [Edinburgh University Press](https://edinburghuniversitypress.com/book-exotic-cinema.html): 
 
-#### A critical reassessment of the aesthetic strategies and cultural value of exoticism in contemporary transnational cinemas
+**A critical reassessment of the aesthetic strategies and cultural value of exoticism in contemporary transnational cinemas**
 
 * Offers an original, critical reappraisal of decentred exoticism in contemporary transnational and world cinema
 * Includes eighteen case studies that are embedded in rich contextual detail and discussions of thematically similar films
