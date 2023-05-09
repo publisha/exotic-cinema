@@ -7,9 +7,7 @@ comments: false
 tags:
   - ""
 ---
-Edinburgh University Press has just announced the publication of [Exotic Cinema](https://edinburghuniversitypress.com/book-exotic-cinema.html) - due to be published in November 2023. Here's their announcement: 
-
-*Exotic Cinema* is the first systematic analysis of decentred exoticism in contemporary transnational and world cinema. By critically examining regimes of visuality such as the imperial, the ethnographic and the exotic gaze, which have colonised our minds and ways of looking, Daniela Berghahn makes an important contribution to the urgent agenda of decolonising film studies.
+Edinburgh University Press has just announced the publication of [Exotic Cinema](https://edinburghuniversitypress.com/book-exotic-cinema.html):  *Exotic Cinema* is the first systematic analysis of decentred exoticism in contemporary transnational and world cinema. By critically examining regimes of visuality such as the imperial, the ethnographic and the exotic gaze, which have colonised our minds and ways of looking, Daniela Berghahn makes an important contribution to the urgent agenda of decolonising film studies.
 
 **A critical reassessment of the aesthetic strategies and cultural value of exoticism in contemporary transnational cinemas**
 
