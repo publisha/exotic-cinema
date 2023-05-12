@@ -9,6 +9,8 @@ tags:
 ---
 Edinburgh University Press has just announced the publication of my forthcoming book: *[Exotic Cinema](https://edinburghuniversitypress.com/book-exotic-cinema.html)* is the first systematic analysis of decentred exoticism in contemporary transnational and world cinema. By critically examining regimes of visuality such as the imperial, the ethnographic and the exotic gaze, which have colonised our minds and ways of looking, Daniela Berghahn makes an important contribution to the urgent agenda of decolonising film studies.
 
+Berghahn demonstrates that decentred exoticism’s aesthetic versatility and alluring alterity are uniquely relevant for understanding the transnational appeal of world cinema. She addresses prevalent controversies surrounding exoticism and illustrates that, in contemporary world cinema, it is utilised to draw attention to new ethical and socio-political goals. Global in scope and transnational in perspective, *Exotic Cinema* invites students and researchers to reassess this prominent mode of cultural representation.
+
 **A critical reassessment of the aesthetic strategies and cultural value of exoticism in contemporary transnational cinemas**
 
 * Offers an original, critical reappraisal of decentred exoticism in contemporary transnational and world cinema
