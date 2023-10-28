@@ -2,6 +2,7 @@
 layout: post
 title: "Celebration of colour in the Victorian era "
 date: 2023-10-28T12:08:54.022Z
+image: ../uploads/jove_decadent_despres_del_ball_ramon_casas_oil_on_canvas_1899._museu_de_monserrat_barcelona._image_c_museu_de_montserrat.jpeg
 caption: Jove Decadent, Despres del ball (Ramon Casas, 1899). Image © Museu de
   Montserrat
 comments: false
