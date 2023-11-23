@@ -2,7 +2,7 @@
 layout: post
 title: Author Q&A about Exotic Cinema book
 date: 2023-11-23T17:30:03.822Z
-image: ""
+image: ../uploads/qa_screenshot.jpg
 comments: false
 tags:
   - ""
