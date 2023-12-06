@@ -10,4 +10,4 @@ tags:
 ---
 Currently as hardback and e-book (hope you'll order *Exotic Cinema* for your university library) and next year as paperback (for your own library...)
 
-You can order the book at Edinburgh University Press [here](https://edinburghuniversitypress.com/book-exotic-cinema.html?fbclid=IwAR06SHSxPPhvKZk30x5PhJPRZFop_LF3pUBm8D8wXLhvhEQgF-38HxhuNDs)
+You can order the book directly from Edinburgh University Press, receiving a 30% launch discount, [here](https://edinburghuniversitypress.com/book-exotic-cinema.html?fbclid=IwAR06SHSxPPhvKZk30x5PhJPRZFop_LF3pUBm8D8wXLhvhEQgF-38HxhuNDs)
