@@ -2,7 +2,7 @@
 layout: post
 title: "Just published!!! "
 date: 2023-12-06T16:39:54.139Z
-image: ../uploads/exotic_cinema_front_cover.jpg
+image: ../uploads/picture-1-copy.jpg
 caption: ""
 comments: false
 tags:
