@@ -30,7 +30,7 @@ str_javascript_required_disqus: "Please enable JavaScript to view comments."
 post_navigation: true
 
 # PAGINATION
-paginate: 8
+paginate: 800
 paginate_path: "page:num"
 
 # collections
