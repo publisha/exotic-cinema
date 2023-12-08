@@ -2,7 +2,7 @@
 layout: post
 title: "Just published!!! "
 date: 2023-12-06T16:39:54.139Z
-image: ../uploads/picture-1-copy.jpg
+image: ../uploads/screenshot-2023-05-09-at-13.41.56.png
 caption: ""
 comments: false
 tags:
