@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ''  #leave this alone
-url: "https://exotic-cinema.netlify.app"   #change this to yours
+url: "https://www.exotic-cinema.org"   #change this to yours
 repository: publisha/exotic-cinema
 # twitter_username: pageboy  #change to your own twitter account
 lang: en_gb
