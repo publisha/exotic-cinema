@@ -8,11 +8,11 @@ comments: false
 tags:
   - ""
 ---
-It would probably be an exaggeration to claim that during our recent holiday in Sri Lanka I undertook serious fieldwork on exoticism. Nevertheless, the encounter with such in indisputably exotic culture gave rise to many reflections on the topic that has preoccupied me for several years now.  This was not only triggered by the exotic flora (coconut palm trees, rice paddies, banana, spice plantations and flowers as 
+It would probably be an exaggeration to claim that during our recent holiday in Sri Lanka I undertook serious fieldwork on exoticism. Nevertheless, the encounter with such in indisputably exotic culture gave rise to many reflections on the topic that has preoccupied me for several years now.  This was not only triggered by the exotic flora (coconut palm trees, rice paddies, banana, spice plantations and flowers as temple offerings) and fauna (elephants, monkeys and even the elusive leopard), the overall sense of lushness and abundance, the tangible legacies of Sri Lanka’s colonial past (Dutch, Portuguese and British) but also by the fact that our Sri Lankan driver and guide kept using the word ‘exotic’ quite lot. Predictably,  what appeared exotic to him in his home country, was not what I would have described as exotic. While this confirmed my argument that the perception of the exotic is relative, depending on the positionality and specific cultural background of the perceiving subject, our guide Harindu’s description of the Horton Plains (see the first photo) in Sri Lanka’s central highlands as an ‘exotic landscape’ led me to reflect upon my argument about the reversal of the exotic gaze, as outlined in my book. 
 
 ![](../uploads/img_3693.jpeg)
 
-temple offerings) and fauna (elephants, monkeys and even the elusive leopard), the overall sense of lushness and abundance, the tangible legacies of Sri Lanka’s colonial past (Dutch, Portuguese and British) but also by the fact that our Sri Lankan driver and guide kept using the word ‘exotic’ quite lot. Predictably,  what appeared exotic to him in his home country, was not what I would have described as exotic. While this confirmed my argument that the perception of the exotic is relative, depending on the positionality and specific cultural background of the perceiving subject, our guide Harindu’s description of the Horton Plains (see the first photo) in Sri Lanka’s central highlands as an ‘exotic landscape’ led me to reflect upon my argument about the reversal of the exotic gaze, as outlined in my book. 
+
 
 ![](../uploads/img_3559.jpeg)
 
@@ -24,4 +24,4 @@ In the chapter ‘The Exotic and the Tourist Gaze’, I propose in relation to B
 
 ![](../uploads/img_3780.jpeg)
 
-When the British came to Sri Lanka to start a new life as tea plantation owners, they fell in love with the Horton Plains, a landscape that reminded them of home. Like in the Scottish Highlands, they went hunting on the Horton Plains. Of course, the Sri Lankans knew of the existence of this wild and untamed stretch of countryside beforehand but only through the Scottish tea plantation owners, did they ‘discover’ its beauty and its Otherness.
+When the British came to Sri Lanka to start a new life as tea plantation owners, they fell in love with the Horton Plains, a landscape that reminded them of home. Like in the Scottish Highlands, they went hunting on the Horton Plains. Of course, the Sri Lankans knew of the existence of this wild and untamed stretch of countryside beforehand but only through the Scottish tea plantation owners did they ‘discover’ its beauty and its Otherness.
