@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Further Reflections on the Reversal of the Exotic Gaze "
+title: "Further reflections on the reversal of the exotic gaze "
 date: 2024-01-21T13:09:11.260Z
 image: ../uploads/img_3778.jpeg
 comments: false
