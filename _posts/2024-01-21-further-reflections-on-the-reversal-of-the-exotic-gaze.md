@@ -12,15 +12,13 @@ It would probably be an exaggeration to claim that during our recent holiday in 
 
 ![](../uploads/img_3693.jpeg)
 
-
-
 ![](../uploads/img_3559.jpeg)
 
 ![](../uploads/f8767d49-6244-4d2e-9ddf-ffd6085e2101.jpeg)
 
 In the chapter ‘The Exotic and the Tourist Gaze’, I propose in relation to Bollywood cinema’s depictions of Europe that ‘it remains questionable whether the scenic snapshots of European tourist attractions—except for the fantasy of Europe as a pastoral idyll—stand in this discursive tradition and actually reverse the exotic gaze. It seems to me (even though my interpretation may be compromised by one of the blind spots that come with my European heritage) that a reversal of the exotic gaze in Bollywood cinema which constructs Europe as exotic is irreconcilable with exoticism’s discursive history and its inherent logic of centre and periphery.  While this logic accommodates the performance of self-exoticism in world cinema, a decentring of the exotic gaze from the periphery onto the European centre transcends the limits of exoticism’. This is to a large extent due to the fact that the exotic gaze invokes a *déjà vu,* insofar as it cites, recycles or repurposes familiar narrative tropes and a familiar iconography that dates back to the old, colonial, Eurocentric exoticism. 
 
- However, as we were set off one early morning from Nuwara Eliya, a former British hill station and resort, also known as ‘Little England’, to hike across the nearby Horton Plains, a landscape that bears great resemblance with the Scottish Highlands and that, in Harindu’s view is a quintessentially ‘exotic landscape,  I began to wonder about the reversibility of the exotic gaze. While his use of the term ‘exotic’ corresponds with the definition I use in my book, it challenges the idea that exoticism is inherently Eurocentric. Perhaps it is more appropriate to think of it as having arisen from the colonial encounter and working in both directions.
+ However, as we set off one early morning from Nuwara Eliya, a former British hill station and resort, also known as ‘Little England’, to hike across the nearby Horton Plains, a landscape that bears great resemblance with the Scottish Highlands and that, in Harindu’s view, is a quintessentially ‘exotic landscape,  I began to wonder about the reversibility of the exotic gaze. While his use of the term ‘exotic’ corresponds with the definition I use in my book, it challenges the idea that exoticism is inherently Eurocentric. Perhaps it is more appropriate to think of it as having arisen from the colonial encounter and working in both directions.
 
 ![](../uploads/img_3780.jpeg)
 
