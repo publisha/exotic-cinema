@@ -13,6 +13,6 @@ I feel immensely honoured to have been awarded not just one but two prizes for m
 
 I thoroughly enjoyed the presentations of my fellow laureates Athina Stourna (Best Essay prize for her exploration of the domestic kitchen as performance space) and Victoria Shmidt (Special Mention for her book on health films in Central Eastern Europe). 
 
-![](../uploads/daniela_best_shot.jpeg)
+![](../uploads/danielajanovics_centre.jpeg)
 
 Thank you, [](<>)Constantin Pârvulescu, for organising such a truly inspiring event and for your warm hospitality.
