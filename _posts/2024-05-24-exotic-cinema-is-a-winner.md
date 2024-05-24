@@ -15,4 +15,4 @@ I thoroughly enjoyed the presentations of my fellow laureates Athina Stourna (Be
 
 ![](../uploads/daniela_best_shot.jpeg)
 
-Thank you, [](<>)Constantin Parvulescu, for organising such a truly inspiring event and for your warm hospitality.
+Thank you, [](<>)Constantin Pârvulescu, for organising such a truly inspiring event and for your warm hospitality.
