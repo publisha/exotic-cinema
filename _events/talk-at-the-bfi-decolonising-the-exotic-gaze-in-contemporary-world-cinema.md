@@ -4,6 +4,10 @@ date: 2024-03-20T18:13:37.404Z
 eventdate: 2024-05-13T17:13:00.000Z
 layout: post
 ---
+![](../uploads/fullsizerender.jpeg)
+
+![]()
+
 On 13 May 2024 @ 6.30pm I will be giving a BFI Reuben Library Talk. Tickets will go on sale on 21 March and can be purchased on the BFI website.
 
 Here's the annoucement: 
