@@ -5,6 +5,10 @@ date: 2026-03-09T10:27:41.548Z
 eventdate: 2026-04-01T09:29:31.419Z
 layout: post
 ---
+![](../uploads/conference_poster.jpg)
+
+![]()
+
 I am delighted to have been invited to present a Keynote address at a conference on *The Exotic in Cinema* (1 - 2 April 2026) in Toulouse, which has been inspired by my book *Exotic Cinema.* The Keynote is entitled 'Transnational Encounters with Cultural Difference in Exotic World Cinema'. 
 
 Here's the Call for Papers for the conference: 
