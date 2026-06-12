@@ -9,7 +9,9 @@ I am delighted to have been invited to present an aspect of my research on Exoti
 
 **Socialist Visual Cultures and Decolonization: Circulations, (Re)interpretations, and Resistances of Visual Models in the Context of the Cold War** 
 
+You can see my presentation here: 
 
+<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/CKeogrwtVJw?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ![](../uploads/seminaire-cultures-visuelles-socialistes.jpg "Conference poster")
 
