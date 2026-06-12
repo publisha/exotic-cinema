@@ -9,10 +9,6 @@ I am delighted to have been invited to present an aspect of my research on Exoti
 
 **Socialist Visual Cultures and Decolonization: Circulations, (Re)interpretations, and Resistances of Visual Models in the Context of the Cold War** 
 
-You can find a recording of my presentation on ***Postsocialist Nostalgia and Exoticism in The Road Home and Balzac and the Little Chinese Seamstress*** here: 
-
-<https://www.swisstransfer.com/d/6a9ba4a4-5b1e-48b9-be89-4d7c14dcd5b1 >
-
 
 
 ![](../uploads/seminaire-cultures-visuelles-socialistes.jpg "Conference poster")
@@ -21,10 +17,6 @@ In the middle of the twentieth century, in the context of the Cold War, various 
 
 \
 Within this dual context of the Cold War and decolonization, the cultural sphere—and particularly the visual arts— occupied a crucial place. Socialism offered powerful visual models associated with ideals of international solidarity, class struggle, and resistance to colonial, racist, and imperialist oppression. For countries in the process of decolonization, the production of images served as a way to defend a worldview opposed to that of the enemy and, at the same time, to promote their emerging national cultures. Situated at the crossroads of multiple cultures and civilizations, the images produced within these postcolonial societies not only reflected this historical turning point but also actively contributed to it. Analyzing the processes of production, circulation, and reception of these images provides a key tool for understanding the formation of postcolonial nation-states. It reveals the logics of appropriation and reinvention of socialist models while highlighting the exchanges between the “brother countries” of the Global South and the Socialist Bloc. These young nations did not simply adopt external models but actively participated in their redefinition, producing hybrid images that were both local and transnational. Such visual productions testify to how postcolonial states constructed their symbolic and visual identities while asserting cultural autonomy within the networks of socialist solidarity.
-
-
-
-
 
 You will find the full seminar programme here: 
 
