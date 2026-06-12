@@ -1,6 +1,6 @@
 ---
 title: "Invited presentation at INHA, Paris: Socialist Visual Cultures and
-  Decolonizatione"
+  Decolonization "
 date: 2026-03-09T11:09:06.055Z
 eventdate: 2026-04-08T10:09:06.061Z
 layout: post
