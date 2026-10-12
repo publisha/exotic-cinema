@@ -7,4 +7,4 @@ layout: post
 ---
 I had the great pleasure of being invited to share and discuss one of the chapters of my book Exotic Cinema with the SCMS Transnational Cinemas Special Interest Group. Here's a YouTube link to my talk: 
 
-<https://youtu.be/bSvr0906ZcY?si=wmx0S9KSLWYsU63D>
+[https://youtu.be/bSvr0906ZcY?si=KH5uWDqZgwpPZGEb&t=1](https://youtu.be/bSvr0906ZcY?si=wmx0S9KSLWYsU63D)
